@@ -24,5 +24,5 @@ This project demonstrates how to create a basic task management app using **Java
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](path-to-screenshot1.jpg)
+![Screenshot 1](WhatsApp Image 2025-07-18 at 19.58.07_155d3aed.jpg)
 ![Screenshot 2](path-to-screenshot2.jpg)
