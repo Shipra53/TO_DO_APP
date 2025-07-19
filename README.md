@@ -23,7 +23,5 @@ This project demonstrates how to create a basic task management app using **Java
 - Android Studio IDE
 
 ## 🖼️ Screenshots
-![image alt](https://github.com/Shipra53/Car_Racing/blob/479f3d4beddf65c6c24d68ce887373a9519659fb/Screenshot%202025-03-03%20185214.png)
-
 ![Screenshot 1](https://github.com/Shipra53/TO_DO_APP/blob/9073ace9a1a0c1a327ecc02abd2d0bb9e7fa036f/WhatsApp%20Image%202025-07-18%20at%2019.58.07_155d3aed.jpg)
 ![Screenshot 2](path-to-screenshot2.jpg)
