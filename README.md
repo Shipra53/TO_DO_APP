@@ -24,4 +24,4 @@ This project demonstrates how to create a basic task management app using **Java
 
 ## 🖼️ Screenshots
 ![Screenshot 1](https://github.com/Shipra53/TO_DO_APP/blob/9073ace9a1a0c1a327ecc02abd2d0bb9e7fa036f/WhatsApp%20Image%202025-07-18%20at%2019.58.07_155d3aed.jpg)
-![Screenshot 2]([path-to-screenshot2.jpg](https://github.com/Shipra53/TO_DO_APP/blob/dbeec75514be2524902f9b42842c8a9eca2984e5/WhatsApp%20Image%202025-07-18%20at%2019.58.07_4a5f7a1f.jpg))
+![Screenshot 2](https://github.com/Shipra53/TO_DO_APP/blob/dbeec75514be2524902f9b42842c8a9eca2984e5/WhatsApp%20Image%202025-07-18%20at%2019.58.07_4a5f7a1f.jpg)
